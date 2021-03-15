@@ -1,2 +1,2 @@
 # Drum-kit
-Simple Drum File created using HTML, CSS ans JS.It produces various bits of the drum.
+Simple Drum-Kit Project created using HTML, CSS ans JS.It produces various bits of the drum.
